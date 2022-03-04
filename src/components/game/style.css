@@ -1,0 +1,31 @@
+.puzzle {
+  font-family: monospace;
+  font-size: 48px;
+  word-spacing: 10px;
+  letter-spacing: 3px;
+  padding: 20px;
+}
+
+.known,
+.unknown,
+.space {
+  width: 50px;
+  letter-spacing: 5px;
+  /* display: block;
+  float: left; */
+}
+
+.known {
+  /* border: 1px solid grey; */
+}
+
+.space {
+  /* color: white; */
+}
+
+.unknown {
+  /* color: white; */
+  /* border: 1px solid grey;
+  margin-left: 10px;
+  margin-right: 10px; */
+}
